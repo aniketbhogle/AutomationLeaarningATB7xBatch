@@ -1,2 +1,7 @@
-package Samples;public class Test1 {
+package Samples;
+
+public class Test1 {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
